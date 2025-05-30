@@ -283,6 +283,3 @@ By using this model, you agree to comply with all applicable laws and ethical gu
 ## Acknowledgements
 
 This code uses the CSM-1B model from [eustlb/csm-1b](https://huggingface.co/eustlb/csm-1b).
-
-## Support me
-Support this project on Ko-fi: https://ko-fi.com/davidbrowne17
